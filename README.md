@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-FPGA
-This project was developed for the Design with Programmable Logic class in colaboration with John Deere.
+This project was developed for the Design with Programmable Logic class in colaboration with Intel.
 
 This game uses the integrated accelerometer and buttons to allow the user to select any of the squares, which is displayed in a monitor via VGA. 
 
