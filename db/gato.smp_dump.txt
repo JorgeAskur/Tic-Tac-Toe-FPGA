@@ -1,0 +1,13 @@
+
+State Machine - |gato|CurrentState
+Name CurrentState.S9 CurrentState.S8 CurrentState.S7 CurrentState.S6 CurrentState.S5 CurrentState.S4 CurrentState.S3 CurrentState.S2 CurrentState.S1 CurrentState.S0 
+CurrentState.S0 0 0 0 0 0 0 0 0 0 0 
+CurrentState.S1 0 0 0 0 0 0 0 0 1 1 
+CurrentState.S2 0 0 0 0 0 0 0 1 0 1 
+CurrentState.S3 0 0 0 0 0 0 1 0 0 1 
+CurrentState.S4 0 0 0 0 0 1 0 0 0 1 
+CurrentState.S5 0 0 0 0 1 0 0 0 0 1 
+CurrentState.S6 0 0 0 1 0 0 0 0 0 1 
+CurrentState.S7 0 0 1 0 0 0 0 0 0 1 
+CurrentState.S8 0 1 0 0 0 0 0 0 0 1 
+CurrentState.S9 1 0 0 0 0 0 0 0 0 1 

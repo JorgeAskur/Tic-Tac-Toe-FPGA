@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Mar 17 20:33:43 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : gato
+Top-level Entity Name : gato
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 149 / 49,760 ( < 1 % )
+    Total combinational functions : 136 / 49,760 ( < 1 % )
+    Dedicated logic registers : 77 / 49,760 ( < 1 % )
+Total registers : 77
+Total pins : 89 / 360 ( 25 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

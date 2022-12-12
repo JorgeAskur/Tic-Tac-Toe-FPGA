@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Mar 17 20:33:34 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : gato
+Top-level Entity Name : gato
+Family : MAX 10
+Total logic elements : 154
+    Total combinational functions : 135
+    Dedicated logic registers : 77
+Total registers : 77
+Total pins : 89
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 0

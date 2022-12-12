@@ -1,0 +1,169 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "disp_en",
+					"strict" : false
+				},
+				{
+					"name" : "column[0]",
+					"strict" : false
+				},
+				{
+					"name" : "column[1]",
+					"strict" : false
+				},
+				{
+					"name" : "column[2]",
+					"strict" : false
+				},
+				{
+					"name" : "column[3]",
+					"strict" : false
+				},
+				{
+					"name" : "column[4]",
+					"strict" : false
+				},
+				{
+					"name" : "column[5]",
+					"strict" : false
+				},
+				{
+					"name" : "column[6]",
+					"strict" : false
+				},
+				{
+					"name" : "column[7]",
+					"strict" : false
+				},
+				{
+					"name" : "column[8]",
+					"strict" : false
+				},
+				{
+					"name" : "column[9]",
+					"strict" : false
+				},
+				{
+					"name" : "row[0]",
+					"strict" : false
+				},
+				{
+					"name" : "row[1]",
+					"strict" : false
+				},
+				{
+					"name" : "row[2]",
+					"strict" : false
+				},
+				{
+					"name" : "row[3]",
+					"strict" : false
+				},
+				{
+					"name" : "row[4]",
+					"strict" : false
+				},
+				{
+					"name" : "row[5]",
+					"strict" : false
+				},
+				{
+					"name" : "row[6]",
+					"strict" : false
+				},
+				{
+					"name" : "row[7]",
+					"strict" : false
+				},
+				{
+					"name" : "row[8]",
+					"strict" : false
+				},
+				{
+					"name" : "datos_gumnut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "datos_gumnut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "datos_gumnut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "datos_gumnut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "datos_gumnut[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
