@@ -1,0 +1,15 @@
+library IEEE;
+	use IEEE.STD_LOGIC_1164.all;
+	use IEEE.NUMERIC_STD.ALL;
+
+entity maquina_de_Moore is
+	port (CLK, RST, VD, VI, IM: in STD_LOGIC;
+		LD, LI: out STD_LOGIC_VECTOR(3 downto 0));
+end maquina_de_Moore;
+
+architecture A1 of maquina_de_Moore is
+
+type State is (S0, SIZ0, SIZ1, SIZ2, SIZ3, SID0, SID1, SID2, SID3, SIN0, SIN1);
+
+signal CurrentState, NextState: State;
+signal count: integer:=1;
