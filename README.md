@@ -39,5 +39,5 @@ In this project we used:
 * Jorge Askur Vazquez Fernandez
 * Jose Miguel Varela 
 * Sebastian Joya Paez
-* Jose Miguel Flores Gonzalez
+* José Miguel Flores Gonzalez
 
